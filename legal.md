@@ -1,13 +1,13 @@
 ---
 title: Política de privacidad
-url: https://perseusyrcabogados.com/legal.html
+url: https://vanmullen.com/legal.html
 date: 2020-23-20 00:00:00 +0000
 type:
 image:
 categories: []
-description: Política de privacidad de Perseus & RC Abogados
+description: Política de privacidad de Van Mullen
 banner_image: ""
-sub_heading: Política de privacidad de Perseus & RC Abogados
+sub_heading: Política de privacidad de Van Mullen
 tags:
 - Política de privacidad
 slug: ''
@@ -16,7 +16,7 @@ keywords: politica de privacidad
 
 # **Política de privacidad**
 
-**Perseus & RC Abogados**, se compromete a garantizar la seguridad y confidencialidad de los datos de carácter personal facilitados por sus clientes y usuarios de acuerdo con las leyes de protección de datos y privacidad.
+**Van Mullen**, se compromete a garantizar la seguridad y confidencialidad de los datos de carácter personal facilitados por sus clientes y usuarios de acuerdo con las leyes de protección de datos y privacidad.
 
 Te aconsejamos que dediques unos minutos a leer esta Política de Privacidad y que lo hagas cada vez que visites nuestra página Web, para ayudarte a entender cómo recopilamos, empleamos, tratamos y protegemos tus datos personales.
 
@@ -27,10 +27,10 @@ Todos los datos que nos facilites se incorporarán a un fichero creado y manteni
 *   Titular: LUIS JURADO CANO
 *   NIF: 49040412L
 *   Domicilio: Calle Juan Flórez nº 2, 3º, 15004, A Coruña.
-*   Correo electrónico: info@ perseusyrcabogados.com
-*   Páginas web: [perseusyrcabogados.com](https://perseusyrcabogados.com)
+*   Correo electrónico: info@ vanmullen.com
+*   Páginas web: [vanmullen.com](https://vanmullen.com)
 
-Perseus & RC Abogados ha nombrado un Delegado de Protección de Datos ante el cual puedes poner de manifiesto cualquier cuestión relativa que tengas al tratamiento de tus datos personales. Puedes contactar con nuestro a través del siguiente correo electrónico info@ perseusyrcabogados.com
+Van Mullen ha nombrado un Delegado de Protección de Datos ante el cual puedes poner de manifiesto cualquier cuestión relativa que tengas al tratamiento de tus datos personales. Puedes contactar con nuestro a través del siguiente correo electrónico info@ vanmullen.com
 
 ### Recopilación de datos de carácter personal
 
@@ -64,7 +64,7 @@ Los datos personales que nos proporciones se conservarán mientras se mantenga l
 
 ### ¿Cuál es la legitimación para el tratamiento de tus datos?
 
-A través de nuestra web puedes estar proporcionado datos de carácter personal que pasarán a formar parte de un fichero bajo la responsabilidad de Perseus & RC Abogados. La base legal para el tratamiento de tus datos está basada en el consentimiento que te solicitamos al recabar esos datos y/o en la necesidad de contar con los mismos para procesar tus pedidos y cumplir con los compromisos que adquirimos contigo por contrato.
+A través de nuestra web puedes estar proporcionado datos de carácter personal que pasarán a formar parte de un fichero bajo la responsabilidad de Van Mullen. La base legal para el tratamiento de tus datos está basada en el consentimiento que te solicitamos al recabar esos datos y/o en la necesidad de contar con los mismos para procesar tus pedidos y cumplir con los compromisos que adquirimos contigo por contrato.
 
 ### ¿Comunicaremos tus datos a terceros?
 
@@ -72,7 +72,7 @@ A menos que así lo exija la legislación aplicable, no facilitaremos tu informa
 
 ### ¿Cuáles son tus derechos cuando nos facilitas tus datos?
 
-La política de privacidad de Perseus & RC Abogados te asegura, en todo caso, el ejercicio de tus derechos en los términos establecidos en la legislación vigente. Puedes hacerlo dirigiendo un escrito a LUIS JURADO CANO, Calle Juan Flórez nº 2, 3º, 15004, A Coruña, o bien enviando un correo electrónico a [info@ perseusyrcabogados.com](mailto:info@ perseusyrcabogados.com)
+La política de privacidad de Van Mullen te asegura, en todo caso, el ejercicio de tus derechos en los términos establecidos en la legislación vigente. Puedes hacerlo dirigiendo un escrito a LUIS JURADO CANO, Calle Juan Flórez nº 2, 3º, 15004, A Coruña, o bien enviando un correo electrónico a [info@ vanmullen.com](mailto:info@ vanmullen.com)
 
 Concretamente, cualquier persona tiene derecho a:
 
@@ -100,7 +100,7 @@ Para garantizar la seguridad de tus datos de carácter personal, comunicamos nue
 
 ### Mantenimiento de la Política de Privacidad
 
-Perseus & RC Abogados se reserva el derecho a enmendar o modificar esta Política de Privacidad en cualquier momento y/o en respuesta a los cambios que afecten a la legislación aplicable en materia de privacidad y protección de datos.
+Van Mullen se reserva el derecho a enmendar o modificar esta Política de Privacidad en cualquier momento y/o en respuesta a los cambios que afecten a la legislación aplicable en materia de privacidad y protección de datos.
 
 Si por cualquier causa decidiéramos utilizar la información personal e identificable de manera diferente a la establecida hasta ahora, te lo notificaríamos vía correo electrónico. Tendrás la posibilidad de autorizarnos o no, a utilizar esta información de manera diferente. Utilizaremos la información de acuerdo con la política de privacidad bajo la que recogimos la información.
 
@@ -108,8 +108,8 @@ Si por cualquier causa decidiéramos utilizar la información personal e identif
 
 Lo presente política de privacidad de la página web se regirá por la legislación española.
 
-Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicación y cumplimiento de esta política de privacidad, así como para cualesquiera reclamaciones o controversias que puedan surgir entre Perseus & RC Abogados y el USUARIO, siempre que éste no reúna la condición de consumidor o usuario, según la definición dada por la normativa sectorial española, las partes se someten a los Jueces y Tribunales de A Coruña (España) con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
+Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicación y cumplimiento de esta política de privacidad, así como para cualesquiera reclamaciones o controversias que puedan surgir entre Van Mullen y el USUARIO, siempre que éste no reúna la condición de consumidor o usuario, según la definición dada por la normativa sectorial española, las partes se someten a los Jueces y Tribunales de A Coruña (España) con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
 
 Fecha publicación: 10 de junio de 2020
 
-Fecha de actualización: 14 de junio de 2020
+Fecha de actualización: 13 de septiembre de 2020
