@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html lang='es' prefix="og: http://ogp.me/ns#">
+<head>
+	<title>{{ page.title }}</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="Generator"    content="Web 1.0" />
+	<link rel="shortcut icon" href="/img/logo-rrss.png" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/img/logo-rrss.png" sizes="300x300"  />
+	<link rel="apple-touch-icon" sizes="57x57" href="/img/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/img/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/img/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/img/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/img/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/img/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/img/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+	<link rel="manifest" href="/img/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/img/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<meta name="viewport" content="width=600">
+
+	<meta name="description" content="{% if .page.description %}{{ .page.description }}{% else %}{{ .site.description }}{% endif %}">
+	<meta name="keywords" content="{{ page.keywords }}">
+
+	<meta name="twitter:card"    content="summary" />
+	<meta name="twitter:site"    content="@perseuslegal" />
+	<meta name="twitter:creator" content="@perseuslegal" />
+	<meta name="twitter:image"   content="https://perseusyrcabogados.com/img/logo-rrss.png" />
+	<meta name="twitter:title"   content="Perseus & RC Abogados" />
+	<meta name="twitter:description" content="Abogados penalistas A Coruña. Especializados en delitos informaticos, penal economico, penal internacional, clausulas abusivas, responsabilidad civil y accidentes de trafico." />
+	<meta name="og:author" content="{{ site.author }}"/>
+
+	<meta property="fb:app_id"   content="307812549963034" /> 
+
+	<meta property="og:site_name" content="{{ page.title }} - Perseus & RC Abogados" />
+	<meta property="og:url"    content="{{ page.url }}" />
+	<meta property="og:title"  content="{{ page.title }} - Perseus & RC Abogados" />
+	<meta property="og:date"  content="{{ page.date }}" />
+	<meta property="og:type"  content="{{ page.type }}" />
+	<meta property="og:image"  content="{{ page.image }}" />
+	<meta property="og:categories"  content="{{ page.categories }}" />
+	<meta property="og:description"  content="{{ page.description }}" />
+	<meta property="og:sub_heading"  content="{{ page.sub_heading }}" />
+	<meta property="og:tags"  content="{{ page.tags }}" />
+	<meta property="og:slug" content="{{ page.slug }}" />
+	<meta property="og:keywords" content="{{ page.keywords }}" />
+
+
+	<meta property="og:image"  content="https://perseusyrcabogados.com/img/logo-rrss.png" />
+	<meta property="og:image:type"   content="image/png" />
+	<meta property="og:image:width"  content="300" />
+	<meta property="og:image:height" content="300" />
+	<meta property="og:locale" content="es_ES" />
+	
+	<link rel="alternate"  href="/" hreflang="es" />
+	<link rel="alternate"  href="https://perseusyrcabogados.com/" hreflang="x-default" />
+	<link rel="alternate"  type="application/rss+xml" title="RSS" href="/rss.xml" />
+	<link rel="preload"    href="/css/style.css" as="style" />
+	<link rel="stylesheet" href="/css/style.css" />
+	
+</head>
+
+<body class="html front not-logged-in no-sidebars page-node">
+	<header id="header_wrap">
+	<div id="header" class="clearfix">
+		<div id="logo"><a title="Perseus & RC Abogados: Abogados penalistas A Coruña, delitos informaticos" href="https://perseusyrcabogados.com"><img src="/img/logo.png" alt="Home" /></a></div>
+		<div id="sitename"><a title="Perseus & RC Abogados: Abogados penalistas A Coruña, delitos informaticos" href="https://perseusyrcabogados.com">Perseus & RC Abogados: Abogados penalistas A Coruña, delitos informaticos</a></div>
+	<nav id="main-navigation">
+	<ul class="menu">
+		<li class="dropdown"><a title="contacto" href="/contacto.html">Contacto</a><div class="dropdown-content">
+			<a title="Contacto" href="/contacto.html">Contacto</a>
+			<a title="Trabaja con nosotros" href="/trabaja-con-nosotros.html">Trabaja con nosotros</a>
+			<a title="Aviso legal" href="/legal.html">Aviso legal</a>
+			
+</div></li>
+		<li class="dropdown"><a title="Áreas" href="/areas.html">Áreas</a><div class="dropdown-content">
+</div></li>
+		<li class="dropdown"><a title="Especialidades" href="/especialidades.html">Especialidades</a><div class="dropdown-content">
+</div></li>
+		<li class="dropdown"><a title="Equipo" href="/equipo.html">Equipo</a><div class="dropdown-content">
+</div></li>
+		<li class="dropdown"><a title="Artículos" href="/articulos.html">Artículos</a><div class="dropdown-content">
+</div></li>
+	</ul></nav>
+	</div></header>
+
+	<div id="page-container" class="clearfix">
+
+     {{content}}
+</div>
+
+<footer>
+
+<div id="bottom">
+<div itemscope itemtype="http://schema.org/Person" style="visibility: hidden;">
+   <span itemprop="name">Abogado Luis Jurado</span>
+   <span itemprop="company">Perseus y RC Abogados</span>
+   <span itemprop="tel">+34661099122</span>
+   <!-- <a itemprop="email" href="mailto:info@ perseusyrcabogados.com">info@ perseusyrcabogados.com</a> -->
+</div>
+	<div id="copyright">
+		<a title="Facebook"    href="https://www.facebook.com/perseusyrcabogados/"><img src="/img/facebook.png"  alt="Facebook" /></a>
+		<a title="Twitter"     href="https://www.twitter.com/perseuslegal"  	  ><img src="/img/twitter.png"   alt="Twitter"  /></a>
+		<a title="LinkedIn"    href="https://www.linkedin.com/in/luisjuradocano/" ><img src="/img/linkedin.png"  alt="LinkedIn" /></a>
+		<a title="Instagram"   href="https://instagram.com/perseusyrcabogados"    ><img src="/img/instagram.png" alt="Instagram"/></a>
+		<a title="WCAG 2.0 AA" href="https://www.w3.org/TR/WCAG20/#a"             ><img src="/img/wcag2.png"     alt="WCAG 2.0 AA"/></a>
+		<a title="Valid HTML5" href="https://html5.validator.nu/?doc=https://perseusyrcabogados.com"><img src="/img/html5.png" alt="Valid HTML5"/></a>
+		<a href="http://jigsaw.w3.org/css-validator/validator?uri=https://perseusyrcabogados.com"><img style="border:0;" src="//jigsaw.w3.org/css-validator/images/vcss-blue" alt="¡CSS Válido!" /></a>
+		<a rel="license" title="Licencia AGPL" href="https://www.gnu.org/licenses/agpl-3.0.html"><img alt="Licencia AGPL" style="border-width:0" src="/img/cc2.png" /></a>
+		<div id="hidden" style="display:none;"><br>
+			<span property="dct:title">Perseus & RC Abogados: Abogados penalistas A Coruña, delitos informaticos</span> by <span property="cc:attributionName">Perseus & RC Abogados: Abogados penalistas, delitos informaticos</span> is licensed under a <a rel="license" title="Licencia CC" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Reconocimiento-NoComercial-CompartirIgual 3.0 Unported License</a>.
+		</div><br>
+	AGPL-3.0. 2014-, Perseus & RC Abogados: Abogados penalistas, delitos informaticos - Tfno: <a title="Teléfono" href="tel:+34661099122">+34 661 099 122</a><br>
+	<a title="Legal" href="/legal.html">Legal</a>
+	<a title="Cookies" href="/cookies.html">Cookies</a>
+	<a title="Términos de uso" href="/terminos.html">Términos de uso</a></div>
+</div><br>
+	<div style="font-size: 14px; text-align: center; "><a title="Esta página web no utiliza cookies.">Esta página web no utiliza cookies.</a>
+</div>
+	
+</footer>
+
+</body>
+</html>
