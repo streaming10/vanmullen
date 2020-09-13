@@ -1,36 +1,35 @@
 ---
-title: Perseus & RC Abogados penalistas A Coruña, delitos informáticos
-url: https://perseusyrcabogados.com
-date: 2020-23-20 00:00:00 +0000
+title: Van Mullen Meetings
+url: https://vanmullen.com
+date: 2020-09-13 00:00:00 +0000
 type: website
 image: https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png
-description: Abogados penalistas A Coruña, delitos informáticos, responsabilidad civil, asesoramiento jurídico a empresas
-sub_heading: Perseus & RC Abogados
+description: Van Mullen Meetings
+sub_heading: Van Mullen Meetings
 banner_image: ""
-keywords: abogados penalistas a coruña, Perseus & RC Abogados, delitos informáticos, abogados penalistas, abogados
+keywords: van mullen, van mullen meetings, videoconferencias, videollamadas seguras
 ---
 
-<p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Perseus"></p>
+<p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png" alt="logo Van Mullen"></p>
 
-# Perseus & RC Abogados A Coruña
+<link rel="canonical" href="https://vanmullen.com/" />
 
-Es una firma especializada en delitos informáticos, reclamaciones civiles y asesoramiento jurídico a empresas. Caracterizado desde su creación por la vocación de los socios en sus respectivas áreas legales y dotados de una alta calidad técnico-jurídica. En nuestro despacho el compromiso, dedicación y seriedad son valores clave. 
+# VAN MULLEN MEETINGS
 
-Asumimos un compromiso de seguimiento permanente en cada uno de nuestros casos, otorgando un valor añadido a nuestros clientes. Sabemos que ante problemas complejos debemos dar soluciones eficaces. Por eso, además de brindar nuestros servicios legales, disponemos de otros servicios especializados que complementan nuestra labor jurídica, para dar una respuesta integral y satisfactoria a los problemas de nuestros clientes.
+Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores de una forma **sencilla y totalmente segura** utilizando la tecnología más innovadora.
 
+## [CONTRÁTALO YA](https://perseusyrcabogados.com/contacto.html "CONTRÁTALO YA")
 
-## [CONTACTO](https://perseusyrcabogados.com/contacto.html "CONTACTO")
+## Ventajas de Van Mullen Meetings
 
-### Teléfono:
-+34 661 099 122
+Sencillo: con un solo click ya estará dentro de la videoconferencia
+Intuitivo: con la mejor experiencia de usuario, apto para todos
+Seguro: gracias a WebRTC con cifrado DTLS-SRTP soportado por todos los navegadores y al protocolo HSTS
+Multiplataforma: capaz de utilizarse en todos los sistemas operativos
+Gran número de usuarios en cada videoconferencia: realiza reuniones 1-1 o múltiples de forma instantánea, independientemente de su ubicación geográfica
+La mayor velocidad en sus videoconferencias: gracias a la tecnología WebRTC con p2p, y la optimización de nuestra plataforma.
+Cumple con la normativa del RGPD: Por eso los servidores de Van Mullen Meeting se encuentran en la Unión Europea y cumplen
+Confidencialidad y privacidad de las comunicaciones: el cliente es el dueño de sus datos, nosotros solo nos encargamos de que pueda comunicarse libremente de forma segura y confidencial. Los datos van cifrados punto a punto unido a una política estricta de
+Esperamos que la experiencia de usuario sea la mejor.
 
-### Email:
-info@ perseusyrcabogados.com
-[Clave pública.](https://perseusyrcabogados.com/public-key.txt "Clave pública.")
-
-### Ubicación:
-Calle Juan Flórez, 2, 3ºA, A Coruña
-
-## [CONSULTAS ONLINE](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS ONLINE")
-
-**Siempre contigo cuando nos necesites.** Por eso hemos habilitado un completo servicio de consulta jurídica online con todas las garantías de seguridad y privacidad [ACCEDE YA](https://perseusyrcabogados.com/consultas-juridicas-online.html "CONSULTAS JURÍDICAS ONLINE")
+### Call easy, call secure!
