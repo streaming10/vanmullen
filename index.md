@@ -10,7 +10,7 @@ banner_image: ""
 keywords: van mullen, van mullen meetings, videoconferencias, videollamadas seguras
 ---
 
-<p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/93509647-521b1e00-f920-11ea-8533-3fd59b746765.png)" alt="logo Van Mullen"></p>
+<p style="text-align:center"><img src="https://github.com/streaming10/vanmullen/issues/1#issue-703795720" alt="logo Van Mullen"></p>
 
 <link rel="canonical" href="https://vanmullen.com/" />
 
