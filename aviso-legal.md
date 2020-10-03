@@ -1,4 +1,4 @@
-# **AVISO LEGAL**  
+# AVISO LEGAL  
 
 [- Política de privacidad](https://vanmullen.com/politica-de-privacidad.html "Política de privacidad")  
 [- Términos de uso](https://vanmullen.com/terminos-de-uso.html "Términos de uso")  
