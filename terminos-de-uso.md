@@ -1,4 +1,4 @@
-# TÉRMINOS DE USO DE LA WEB
+# TÉRMINOS DE USO DE LA WEB  
 
 ## 1- Información legal
 
