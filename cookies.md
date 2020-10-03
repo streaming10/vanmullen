@@ -10,7 +10,7 @@ banner_image: ""
 keywords: cookies van mullen, cookies van mullen meetings, videoconferencias, videollamadas seguras
 ---
 
-# **POLÍTICA DE COOKIES**
+# POLÍTICA DE COOKIES
 
 **¿QUÉ SON LAS COOKIES?**
 
