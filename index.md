@@ -1,5 +1,4 @@
 ---
-<link rel="canonical" href="https://vanmullen.com/" />
 title: Van Mullen Meetings
 url: https://vanmullen.com
 date: 2020-09-13 00:00:00 +0000
@@ -10,6 +9,8 @@ sub_heading: Van Mullen Meetings
 banner_image: ""
 keywords: van mullen, van mullen meetings, videoconferencias, videollamadas seguras
 ---
+<link rel="canonical" href="https://vanmullen.com/" />
+
 
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/93509647-521b1e00-f920-11ea-8533-3fd59b746765.png" alt="logo Van Mullen"></p>
 
