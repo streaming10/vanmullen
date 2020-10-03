@@ -450,17 +450,21 @@ div#luis {
     width:45%;
     float:right;
 }
+
+/* Invertir texto */
 span.invertirTexto {
     unicode-bidi: bidi-override;
     direction: rtl;
 }
+
+/* Planes de precios */
 
 * {
   box-sizing: border-box;
 }
 
 /* Create three columns of equal width */
-.columns {
+#columns {
   float: left;
   width: 33.3%;
   padding: 8px;
