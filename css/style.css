@@ -454,6 +454,7 @@ span.invertirTexto {
     unicode-bidi: bidi-override;
     direction: rtl;
 }
+
 * {
   box-sizing: border-box;
 }
