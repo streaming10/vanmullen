@@ -10,7 +10,7 @@ banner_image: ""
 keywords: seguridad van mullen, seguridad van mullen meetings, videoconferencias, videollamadas seguras
 ---
 
-# POLÍTICA DE SEGURIDAD
+# POLÍTICA DE SEGURIDAD  
 
 **Van Mullen**, dentro del objetivo empresarial de proporcionar el mejor servicio como consultora open source, ha instaurado un Sistema de Gestión de Seguridad de la Información (SGSI) con la finalidad de ofrecer garantías de seguridad de la información a nuestros clientes y otras partes interesadas.
 
