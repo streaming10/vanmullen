@@ -17,8 +17,9 @@ keywords: van mullen, van mullen meetings, videoconferencias, videollamadas segu
 
 Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores de una forma **sencilla y totalmente segura** utilizando la tecnología más innovadora.
 
+<p align="center">
 ## [CONTRÁTALO YA](https://vanmullen.com/contacto.html "CONTRÁTALO YA")
-
+</p>  
 ## Ventajas de Van Mullen Meetings
 
 **Sencillo**: con un solo click ya estará dentro de la videoconferencia.  
