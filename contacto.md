@@ -4,7 +4,7 @@ url:
 date: 2020-23-20 00:00:00 +0000
 categories: []
 description: Contacto de Van Mullen Meetings
-banner_image: "img/logo.png"
+banner_image: 
 sub_heading: Contacto de Van Mullen Meetings
 tags:
 - Contacto
