@@ -14,7 +14,7 @@ slug: ''
 keywords: politica de privacidad, legal van mullen meetings
 ---
 
-# **Política de privacidad**
+# **POLÍTICA DE PRIVACIDAD**
 
 **Van Mullen**, se compromete a garantizar la seguridad y confidencialidad de los datos de carácter personal facilitados por sus clientes y usuarios de acuerdo con las leyes de protección de datos y privacidad.
 
