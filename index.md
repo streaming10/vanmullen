@@ -1,6 +1,5 @@
-<link rel="canonical" href="https://vanmullen.com/" />
-
 ---
+<link rel="canonical" href="https://vanmullen.com/" />
 title: Van Mullen Meetings
 url: https://vanmullen.com
 date: 2020-09-13 00:00:00 +0000
