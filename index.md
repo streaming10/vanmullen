@@ -1,3 +1,5 @@
+<link rel="canonical" href="https://vanmullen.com/" />
+
 ---
 title: Van Mullen Meetings
 url: https://vanmullen.com
