@@ -32,4 +32,4 @@ Cumple con la normativa del RGPD: Por eso los servidores de Van Mullen Meeting s
 Confidencialidad y privacidad de las comunicaciones: el cliente es el dueño de sus datos, nosotros solo nos encargamos de que pueda comunicarse libremente de forma segura y   confidencial. Los datos van cifrados punto a punto unido a una política estricta de  
 Esperamos que la experiencia de usuario sea la mejor.  
   
-  ### Call easy, call secure!
+### Call easy, call secure!
