@@ -12,7 +12,6 @@ keywords: van mullen, van mullen meetings, videoconferencias, videollamadas segu
 
 <p style="text-align:center"><img src="https://user-images.githubusercontent.com/63341181/93509647-521b1e00-f920-11ea-8533-3fd59b746765.png" alt="logo Van Mullen"></p>
 
-This text is bold
 # VAN MULLEN MEETINGS
 
 Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores de una forma **sencilla y totalmente segura** utilizando la tecnología más innovadora.  
