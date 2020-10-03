@@ -3,7 +3,7 @@ title: Van Mullen Meetings
 url: https://vanmullen.com
 date: 2020-09-13 00:00:00 +0000
 type: website
-image: https://user-images.githubusercontent.com/63341181/85150740-35a11400-b253-11ea-9a7d-fd3fffc300c0.png
+image: ![logo](https://user-images.githubusercontent.com/63341181/94999448-c78e1c00-05b9-11eb-9c82-7441b5f91dcb.png)
 description: Van Mullen Meetings
 sub_heading: Van Mullen Meetings
 banner_image: ""
