@@ -18,11 +18,6 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
 
 ## [CONTRÁTALO YA](https://perseusyrcabogados.com/contacto.html "CONTRÁTALO YA")
 
-| 1 mes | 3 meses | 6 meses | 12 meses |
-| :---------: | :---------: | :---------: | :---------: |
-| 39€ | 105€ | 190€ | 300€ |
-| [**Lo quiero**](https://vanmullen.com/paypal_1.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_3.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_6.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_12.html "Lo quiero") |
-
 ## Ventajas de Van Mullen Meetings
 
 **Sencillo**: con un solo click ya estará dentro de la videoconferencia.  
