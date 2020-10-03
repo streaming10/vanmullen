@@ -18,7 +18,7 @@ keywords: contacto
 +34 661 099 122
 
 ### Email:
-<span class="invertirTexto">moc.sodagobacrysuesrep@ofni</span>
+<span class="invertirTexto">moc.nellumnav@ofni</span>
 
 ### Ubicación:
 Calle Juan Flórez nº 2, 3. 
