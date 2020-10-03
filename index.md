@@ -16,7 +16,12 @@ keywords: van mullen, van mullen meetings, videoconferencias, videollamadas segu
 
 Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores de una forma **sencilla y totalmente segura** utilizando la tecnología más innovadora.  
 
-## [CONTRÁTALO YA](https://vanmullen.com/contacto.html "CONTRÁTALO YA")  
+## [CONTRÁTALO YA](https://perseusyrcabogados.com/contacto.html "CONTRÁTALO YA")
+
+| 1 mes | 3 meses | 6 meses | 12 meses |
+| :---------: | :---------: | :---------: | :---------: |
+| 39€ | 105€ | 190€ | 300€ |
+| [**Lo quiero**](https://vanmullen.com/paypal_1.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_3.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_6.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_12.html "Lo quiero") |
 
 ## Ventajas de Van Mullen Meetings
 
