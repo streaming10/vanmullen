@@ -1,4 +1,4 @@
-# Uy, algo salió mal...Parece que estás intentando acceder a un servicio al que no estás subscrito.
+# Uy, algo salió mal...Parece que estás intentando acceder a un servicio al que no estás subscrito.  
 ## La subscripción a Van Mullen Meetings ya no la tienes activa. Si deseas continuar con nuestro servicio no dudes en ponerte en contacto con nuestro equipo en ***info@ vanmullen.com*** y elegir alguna de nuestras suscripciones que tenemos pensadas para tí.  
 Muchas gracias
 
