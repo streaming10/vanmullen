@@ -464,7 +464,7 @@ span.invertirTexto {
 }
 
 /* Create three columns of equal width */
-#columns {
+.columns {
   float: left;
   width: 33.3%;
   padding: 8px;
