@@ -18,45 +18,6 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
 
 <h2 style="text-align:center"><a href="https://vanmullen.com/contacto.html"> CONTRÁTALO YA</a></h2>
 
-<h2 style="text-align:center">Planes de contratación de Van Mullen Meetings</h2>
-<p style="text-align:center">Elige tu plan preferido</p>
-
-<div class="columns">
-  <ul class="price">
-    <li class="header">Basic</li>
-    <li class="grey">€ 39,00 / mes</li>
-    <li>1 mes</li>
-    <li>10 emails</li>
-    <li>15 dominios</li>
-    <li>1GB Bandwidth</li>
-    <li class="grey"><a href="/paypal_1.html" class="button">Lo quiero</a></li>
-  </ul>
-</div>
-
-<div class="columns">
-  <ul class="price">
-    <li class="header" style="background-color:#4CAF50">Pro</li>
-    <li class="grey">€ 190 / mes</li>
-    <li>6 meses</li>
-    <li>25 Emails</li>
-    <li>25 Domains</li>
-    <li>2GB Bandwidth</li>
-    <li class="grey"><a href="/paypal_6.html" class="button">Lo quiero</a></li>
-  </ul>
-</div>
-
-<div class="columns">
-  <ul class="price">
-    <li class="header">Premium</li>
-    <li class="grey">€ 300 / mes</li>
-    <li>12 meses</li>
-    <li>50 Emails</li>
-    <li>50 Domains</li>
-    <li>5GB Bandwidth</li>
-    <li class="grey"><a href="/paypal_12.html" class="button">Lo quiero</a></li>
-  </ul>
-</div>
-
 ## Ventajas de Van Mullen Meetings
 
 **Sencillo**: con un solo click ya estará dentro de la videoconferencia.    
