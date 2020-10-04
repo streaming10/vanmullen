@@ -12,5 +12,5 @@ keywords: servicios van mullen, servicios van mullen meetings, videoconferencias
 
 # SERVICIOS
 
-[- Van Mullen Meetings](https://vanmullen.com/meetings.html "Van Mullen Meetings")  
-[- Van Mullen Formación](https://vanmullen.com/formacion.html "Van Mullen Formación")
+[- Van Mullen Meetings](https://vanmullen.com/meetings "Van Mullen Meetings")  
+[- Van Mullen Formación](https://vanmullen.com/formacion "Van Mullen Formación")
