@@ -487,7 +487,7 @@ span.invertirTexto {
 
 /* Pricing header */
 .price .header {
-  background-color: #111;
+  background-color: #ffaf47;
   color: white;
   font-size: 25px;
 }
@@ -507,7 +507,7 @@ span.invertirTexto {
 
 /* The "Sign Up" button */
 .button {
-  background-color: #4CAF50;
+  background-color: #fc6444;
   border: none;
   color: white;
   padding: 10px 25px;
