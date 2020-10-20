@@ -18,6 +18,15 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
 
 <h2 style="text-align:center"><a href="https://vanmullen.com/contacto"> CONTRÁTALO YA</a></h2>
 
+| | Básico | Pro | Premium | A medida |
+| :---------: | :---------: | :---------: | :---------: | :---------: |
+| Precio | 39€ | 190€ | 300€ | Preguntar |
+| Duración | 1 mes | 6 meses | 12 meses |  |
+| Emails | 10 | 25 | 50 |  |
+| Dominios | 15 | 25 | 50 |  |
+| Ancho de banda | 1GB | 2GB | 5GB |  |
+| | [**Lo quiero**](https://vanmullen.com/paypal_1.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_6.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_12.html "Lo quiero") | [**Contactar**](https://vanmullen.com/contactar "Contactar") |
+
 ## Ventajas de Van Mullen Meetings
 
 **Sencillo**: con un solo click ya estará dentro de la videoconferencia.    
