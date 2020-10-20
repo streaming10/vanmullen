@@ -8,7 +8,7 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
 
 | | Básico | Pro | Premium | A medida |
 | :---------: | :---------: | :---------: | :---------: | :---------: |
-| Percio | 39€ | 190€ | 300€ | Preguntar |
+| Precio | 39€ | 190€ | 300€ | Preguntar |
 | Duración | 1 mes | 6 meses | 12 meses |  |
 | Emails | 10 | 25 | 50 |  |
 | Dominios | 15 | 25 | 50 |  |
