@@ -6,14 +6,14 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
 
 ## [CONTRÁTALO YA](https://perseusyrcabogados.com/contacto.html "CONTRÁTALO YA")
 
-| Básico | Pro | Premium | A medida |
-| :---------: | :---------: | :---------: | :---------: |
-| 39€ | 190€ | 300€ | Preguntar |
-| 1 mes | 6 meses | 12 meses |  |
-| 10 emails | 25 emails | 50 emails |  |
-| 15 dominios | 25 dominios | 50 dominios |  |
-| 1GB Bandwidth | 2GB Bandwidth | 5GB Bandwidth |  |
-| [**Lo quiero**](https://vanmullen.com/paypal_1.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_6.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_12.html "Lo quiero") | [**Contactar**](https://vanmullen.com/contactar "Contactar") |
+| | Básico | Pro | Premium | A medida |
+| :---------: | :---------: | :---------: | :---------: | :---------: |
+| Percio | 39€ | 190€ | 300€ | Preguntar |
+| Duración | 1 mes | 6 meses | 12 meses |  |
+| Emails | 10 | 25 | 50 |  |
+| Dominios | 15 | 25 | 50 |  |
+| Ancho de banda | 1GB | 2GB | 5GB |  |
+| | [**Lo quiero**](https://vanmullen.com/paypal_1.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_6.html "Lo quiero") | [**Lo quiero**](https://vanmullen.com/paypal_12.html "Lo quiero") | [**Contactar**](https://vanmullen.com/contactar "Contactar") |
 
 ## Ventajas de Van Mullen Meetings
 
