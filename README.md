@@ -9,6 +9,7 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
 | Básico | Pro | Premium | A medida |
 | :---------: | :---------: | :---------: | :---------: |
 | 39€ | 190€ | 300€ | Preguntar |
+| 1 mes | 6 meses | 12 meses |  |
 | 10 emails | 25 emails | 50 emails |  |
 | 15 dominios | 25 dominios | 50 dominios |  |
 | 1GB Bandwidth | 2GB Bandwidth | 5GB Bandwidth |  |
