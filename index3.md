@@ -1,7 +1,7 @@
 <p style="text-align:left"><img src="https://user-images.githubusercontent.com/63341181/93509647-521b1e00-f920-11ea-8533-3fd59b746765.png" alt="logo Van Mullen"></p>
 
 # VAN MULLEN MEETINGS
-|hola|img src="https://user-images.githubusercontent.com/63341181/84498230-81cae200-acb0-11ea-852f-a325640dc051.jpg" title="Ana Reza" alt="Ana Reza"|
+| hola | img src="https://user-images.githubusercontent.com/63341181/84498230-81cae200-acb0-11ea-852f-a325640dc051.jpg" title="Ana Reza" alt="Ana Reza" |
 <h1>EQUIPO</h1>
 <div id="equipo">
     <div id="ana">
