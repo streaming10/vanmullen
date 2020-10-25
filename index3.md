@@ -2,9 +2,15 @@
 
 # VAN MULLEN MEETINGS
 
+<p style="text-align:right"><img src="/img/illustration.png" alt="imagen inicio Van Mullen"></p>
+
 Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores de una forma **sencilla y totalmente segura** utilizando la tecnología más innovadora.  
 
+<p style="text-align:right"><img src="/img/illustration.png" alt="imagen inicio Van Mullen"></p>
+
 <h2 style="text-align:center"><a href="https://vanmullen.com/contacto.html"> CONTRÁTALO YA</a></h2>
+
+<p style="text-align:right"><img src="/img/illustration.png" alt="imagen inicio Van Mullen"></p>
 
 <h2 style="text-align:center">Planes de contratación de Van Mullen Meetings</h2>
 <p style="text-align:center">Elige tu plan preferido</p>
