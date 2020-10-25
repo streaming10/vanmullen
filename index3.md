@@ -1,21 +1,6 @@
-<p style="text-align:left"><img src="https://user-images.githubusercontent.com/63341181/93509647-521b1e00-f920-11ea-8533-3fd59b746765.png" alt="logo Van Mullen"></p>
+<p style="text-align:right"><img src="/img/illustration.png" alt="imagen inicio Van Mullen"></p>
 
 # VAN MULLEN MEETINGS
-| hola | img src="https://user-images.githubusercontent.com/63341181/84498230-81cae200-acb0-11ea-852f-a325640dc051.jpg" title="Ana Reza" alt="Ana Reza" |
-<h1>EQUIPO</h1>
-<div id="equipo">
-    <div id="ana">
-        <p class="cargo">Socia Directora Área Civil y Empresa</p>
-        <img src="https://user-images.githubusercontent.com/63341181/84498230-81cae200-acb0-11ea-852f-a325640dc051.jpg" title="Ana Reza" alt="Ana Reza" />
-        <p><a href="https://www.linkedin.com/in/ana-m%AA-reza-corti%F1as-72107570/" title="Ana Reza - Linkedin">Ana Reza - Linkedin</a></p>
-    </div>
-    <div id="luis">
-        <p class="cargo">Socio Director Área Penal</p>
-        <img src="https://user-images.githubusercontent.com/63341181/84498586-395ff400-acb1-11ea-9709-0c3801825aa1.jpg" title="Luis Jurado" alt="Luis Jurado" />
-        <p><a href="https://www.linkedin.com/in/luisjuradocano/">Luis Jurado - Linkedin</a></p>
-    </div>
-</div>
-
 
 Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores de una forma **sencilla y totalmente segura** utilizando la tecnología más innovadora.  
 
