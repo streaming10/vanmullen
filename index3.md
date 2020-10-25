@@ -1,4 +1,5 @@
 <p style="text-left"><img src="/img/illustration.png" alt="imagen inicio Van Mullen"></p>
+<p style="text-align:right"><img src="/img/space.png" alt="imagen inicio Van Mullen"></p>
 
 # VAN MULLEN MEETINGS
 
