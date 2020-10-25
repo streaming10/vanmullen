@@ -48,7 +48,7 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
   </ul>
 </div>
 
-<p style="text-align:right"><img src="/img/space-grey.png" alt="imagen inicio Van Mullen"></p>
+<p style="text-align:right"><img src="/img/space.png" alt="imagen inicio Van Mullen"></p>
 
 <h2 style="text-align:center">Ventajas de Van Mullen Meetings</h2>
 
