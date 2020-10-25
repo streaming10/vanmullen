@@ -48,7 +48,9 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
   </ul>
 </div>
 
-## Ventajas de Van Mullen Meetings
+<p style="text-align:right"><img src="/img/space.png" alt="imagen inicio Van Mullen"></p>
+
+<h2 style="text-align:center">Ventajas de Van Mullen Meetings</h2>
 
 **Sencillo**: con un solo click ya estará dentro de la videoconferencia.    
 **Intuitivo**: con la mejor experiencia de usuario, apto para todos.    
@@ -61,4 +63,4 @@ Tenga a un click reuniones a distancia con sus clientes, empleados o proveedores
 
 Esperamos que tu experiencia de usuario sea la mejor.  
   
-### Call easy, call secure!
+<h3 style="text-align:center">Call easy, call secure!</h3>
