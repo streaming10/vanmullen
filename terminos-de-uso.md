@@ -5,7 +5,7 @@
 En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, el Titular de la página web pone a disposición del USUARIO de esta sus datos identificativos:  
 • Titular: LUIS JURADO CANO  
 • NIF: 49040412L  
-• Domicilio: Calle Juan Flórez nº 2, 3º, 15004, A Coruña.  
+• Domicilio: Calle Torreiro 13, 3C, 15001, A Coruña.  
 • Correo electrónico: info@ vanmullen.com
 
 • Páginas web: www.vanmullen.com
@@ -53,3 +53,5 @@ Lo presentes términos de uso de la página web se regirán por la legislación 
 Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicación y cumplimiento de estos términos de uso, así como para cualesquiera reclamaciones o controversias que puedan surgir entre el Van Mullen y el USUARIO, siempre que éste no reúna la condición de consumidor o usuario, según la definición dada por la normativa sectorial española, las partes se someten a los Jueces y Tribunales de Coruña con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
 
 Fecha publicación: 13 de septiembre de 2020
+
+Fecha de actualización: 16 de febrero de 2021
